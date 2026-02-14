@@ -1,0 +1,12 @@
+{
+  "libs": [
+    {
+      "name": "ARES X EXTERNAL",
+      "url": "https://thousandtricks5.x10.mx/Onlinelib/libbogart.so"
+    },
+    {
+      "name": "INTERNAL",
+      "url": ""
+    }
+  ]
+}
