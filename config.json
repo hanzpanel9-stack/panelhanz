@@ -1,12 +1,24 @@
 {
   "libs": [
     {
-      "name": "ARES X EXTERNAL",
-      "url": "https://thousandtricks5.x10.mx/Onlinelib/libbogart.so"
+      "name": "ZDZ EXTERNAL",
+      "url": "https://github.com/lionell1223/onnlinelib/releases/download/onnlinepNel/libZA.so"
     },
     {
-      "name": "INTERNAL",
-      "url": "https://thousandtricks5.x10.mx/Onlinelib/libbogart.so"
+      "name": "ZDZ INTERNAL",
+      "url": "https://github.com/lionell1223/onnlinelib/releases/download/onnlinepNel/libZB.so"
+    },
+    {
+      "name": "VIP FEATURES",
+      "url": "https://github.com/lionell1223/onnlinelib/releases/download/onnlinepNel/libVC.so"
+    },
+    {
+      "name": "AIMBOT PRO",
+      "url": "https://github.com/lionell1223/onnlinelib/releases/download/onnlinepNel/libAP.so"
+    },
+    {
+      "name": "WALLHACK PREMIUM",
+      "url": "https://github.com/lionell1223/onnlinelib/releases/download/onnlinepNel/libWH.so"
     }
   ]
 }
